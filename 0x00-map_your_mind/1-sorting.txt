@@ -1,0 +1,9 @@
+1. Create an empty list named 'sorted_list'
+2. check if the length of the list is equal to 3
+	IF length of 'sorted_list' is equal to 3
+		sort the numbers in the list in ascending order
+		print the sorted_list
+		stop the 
+3. ELSE IF length of 'sorted_list' not equal to 3
+	INPUT new number to the list
+	repeat step 2 -3

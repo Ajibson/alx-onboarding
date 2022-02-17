@@ -1,0 +1,8 @@
+1. Create and initialize "sum_result" to zero
+2. INPUT new number as n
+3. IF n is negative number
+	PRINT sum_result 
+	STOP the program
+4. ELSE IF n is positive 
+	ADD n to sum_result
+	repeat step 2 - 4

@@ -9,4 +9,4 @@
 	ELSE IF no Conversion Error
 		Square 'n' 
 		Add 'n' to end_result
-		return to step 2
+		return to step 2 -4
