@@ -1,0 +1,12 @@
+1. Create and initialize end_result variable to zero
+2. Ask INPUT from user and store it in variable "n"
+3. IF n is equal to zero 
+	PRINT end_result 
+	Stop the program
+4 ELSE IF 'n' is not equal to zero
+	IF Conversion Error to INTEGER 
+		PRINT the error and ask for INPUT again
+	ELSE IF no Conversion Error
+		Square 'n' 
+		Add 'n' to end_result
+		return to step 2
